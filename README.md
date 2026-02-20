@@ -4,4 +4,4 @@ The scope is project is to keep track of how often certain electric vehicle char
 Data Source:https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-charging-stations-2024
 Part B
 I plan to use 5 main entities in may database. These entities are Charging_Station, which will be used to store data regarding each specific stations, Charger, which will be used to catalog each type of charger each station has, EV_USER, which will store the data regarding each user of the stations, Charging-Session, which is an associative entitiy between Charger and EV_USER showing the stats of each time a user use a specific charger at a specific station, and Station_Performance_Index, which will store data related to how effective each station is.
-Screenshot 2026-02-20 101455.png
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/9ac617a4fc15a7bbb72257ad8007f7635d598df8/Screenshot%202026-02-20%20101455.png
