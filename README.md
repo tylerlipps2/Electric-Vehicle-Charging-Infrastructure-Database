@@ -8,3 +8,4 @@ https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database
 User Groups: Companys and constructions groups wanting to determine where it would be good to put charging stations for electric cars.
 Part C
 https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20C%20image.png
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20C.docx
