@@ -7,5 +7,24 @@ I plan to use 5 main entities in may database. These entities are Charging_Stati
 https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/9ac617a4fc15a7bbb72257ad8007f7635d598df8/Screenshot%202026-02-20%20101455.png
 User Groups: Companys and constructions groups wanting to determine where it would be good to put charging stations for electric cars.
 Part C
+ER:
 https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20C%20image.png
+Doc:
 https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20C.docx
+Part D
+ER:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20D%20ER.png
+SQL:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/create_db.sql
+Unfiltered CSV:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Database%201%20Project%20D%20CSV.csv
+Preprocess:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/preprocess.py
+Filtered CSV's:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/ChargingStation.csv
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/Charger.csv
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/EVUser.csv
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/ChargingSession.csv
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/StationPerformanceIndex_df.csv
+Dataload:
+https://github.com/tylerlipps2/Electric-Vehicle-Charging-Infrastructure-Database/blob/main/dataload.py
