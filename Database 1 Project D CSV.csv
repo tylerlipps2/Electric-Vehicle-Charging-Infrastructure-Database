@@ -1,0 +1,102 @@
+Station_ID,StationName,StationAddress,City,ChargerNumber,ChargerTyper,MaxPowerKW,UserID,FirstName,LastName,PhoneNumber,ChargeSessionID,ChargeStartTime,ChargeEndTime,EnergyConsumedKWh,TotalCost,Availability,AvgSessionDurration,RevenuePerDay,UtilizationRate,UtilizationRank
+S001,BMW OF DARIEN,138-142 Ledge Rd,Darien,C001,DC Fast Charger,350,U001,Reese,Yoder,863-633-0001,CS001,1/1/2024 0:00,1/1/2024 0:39,60.71,13.09,24 hours daily,0.59,1308.77,0.68,2
+S002,Dunkin’ - Tesla Supercharger,893 E Main St,Meriden,C002,Level 1,1.9,U002,Colin,House,863-633-0002,CS002,1/1/2024 1:00,1/1/2024 3:01,12.34,21.13,24 hours daily; for Tesla use only,3.13,2112.84,0.82,1
+S003,Town of Beacon Falls - Commuter Lot,105 N Main St,Beacon Falls,C003,Level 2,19.2,U003,Johan,Berger,863-633-0003,CS003,1/1/2024 2:00,1/1/2024 4:48,19.13,35.67,24 hours daily,2.45,3566.73,0.94,1
+S004,OLD SAYBROOK VW,319 Middlesex Turnpike,Old Saybrook,C004,Level 1,1.9,U004,Laylah,Rojas,863-633-0004,CS004,1/1/2024 3:00,1/1/2024 6:42,79.46,13.04,24 hours daily,1.27,1303.62,0.67,2
+S005,Fairfield Rail Station,80 Mill Plain Rd,Fairfield,C005,Level 1,1.9,U005,Whitney,Logan,863-633-0005,CS005,1/1/2024 4:00,1/1/2024 5:46,19.63,10.16,24 hours daily,2.02,1016.15,0.54,2
+S006,FOUNDRY66,50 Franklin St,Norwich,C006,DC Fast Charger,350,U006,Jorge,Medina,863-633-0006,CS006,1/1/2024 5:00,1/1/2024 7:10,43.18,36.90,24 hours daily,1.17,3690.03,0.96,1
+S007,Corbins Corner Shopping Center - Tesla Supercharger,1445 New Britain Ave.,West Hartford,C007,Level 2,19.2,U007,Caden,Vance,863-633-0007,CS007,1/1/2024 6:00,1/1/2024 7:53,36.86,22.21,24 hours daily; for Tesla use only,3.54,2221.42,0.84,1
+S008,GLASTONBURYEV,2327-2333 Main St,Glastonbury,C008,Level 2,19.2,U008,Elliana,Bell,863-633-0008,CS008,1/1/2024 7:00,1/1/2024 10:42,51.47,9.80,24 hours daily,2.66,979.68,0.45,3
+S009,Whole Foods Market,150 Ledge Rd,Darien,C009,Level 1,1.9,U009,Travis,Russo,863-633-0009,CS009,1/1/2024 8:00,1/1/2024 9:21,43.59,32.47,8am-10pm daily; for customer use only,1.72,3246.50,0.90,1
+S010,Mystic Marriott Hotel and Spa,625 North Rd,Groton,C010,DC Fast Charger,350,U010,Brixton,Walters,863-633-0010,CS010,1/1/2024 9:00,1/1/2024 12:44,78.87,21.31,24 hours daily; guest use only; see front desk for access,2.03,2131.23,0.74,2
+S011,Brass Mill Center - Shoppers World,495 Union St,Waterbury,C011,DC Fast Charger,350,U011,Zora,Bradford,863-633-0011,CS011,1/1/2024 10:00,1/1/2024 13:59,18.21,38.22,6am-12am daily,2.65,3822.12,0.98,1
+S012,University of Connecticut Health - Center Garage,263 Farmington Ave,Farmington,C012,DC Fast Charger,350,U012,Ander,McPherson,863-633-0012,CS012,1/1/2024 11:00,1/1/2024 14:55,22.56,14.05,24 hours daily,2.06,1405.09,0.72,2
+S013,D'Addario Nissan,329 Bridgeport Ave,Shelton,C013,Level 2,19.2,U013,Samara,Garrison,863-633-0013,CS013,1/1/2024 12:00,1/1/2024 13:00,34.26,10.97,Dealership business hours,3.07,1097.21,0.55,2
+S014,CT RAIL,198 N Cherry St,Wallingford,C014,Level 2,19.2,U014,Noor,Gregory,863-633-0014,CS014,1/1/2024 13:00,1/1/2024 15:54,16.56,37.44,24 hours daily,3.59,3744.19,0.95,1
+S015,Hampton Inn & Suites Rocky Hill - Hartford South - Tesla Destination,685 Cromwell Ave,Rocky Hill,C015,Level 1,1.9,U015,Tiana,Perkins,863-633-0015,CS015,1/1/2024 14:00,1/1/2024 17:32,12.93,18.55,24 hours daily; for customer use only; see front desk for access,3.42,1855.28,0.62,2
+S016,Goodwives Shopping Center,25 Old Kings Hwy,Darien,C016,DC Fast Charger,350,U016,Cole,Pham,863-633-0016,CS016,1/1/2024 15:00,1/1/2024 17:19,27.35,33.09,24 hours daily,2.70,3309.35,0.93,1
+S017,City of New Haven - Union Station Garage,50 Union Ave,New Haven,C017,DC Fast Charger,350,U017,Cain,Montoya,863-633-0017,CS017,1/1/2024 16:00,1/1/2024 18:02,24.73,17.49,24 hours daily; pay lot,3.46,1749.48,0.58,2
+S018,Easton Public Library,691 Morehouse Rd,Easton,C018,Level 2,19.2,U018,Sullivan,Franco,863-633-0018,CS018,1/1/2024 17:00,1/1/2024 20:13,23.82,6.43,24 hours daily,0.85,643.06,0.34,3
+S019,The Plaza at Buckland Hills - Tesla Supercharger,1470 Pleasant Valley Road,Manchester,C019,Level 1,1.9,U019,Derek,Walton,863-633-0019,CS019,1/1/2024 18:00,1/1/2024 21:03,42.64,25.08,24 hours daily; for Tesla use only,0.81,2507.88,0.78,2
+S020,Greenlots - 92367,204 Stillman Hill Rd,Colebrook,C020,Level 2,19.2,U020,Gage,Roy,863-633-0020,CS020,1/1/2024 19:00,1/1/2024 20:22,48.48,7.09,24 hours daily,2.58,709.08,0.36,3
+S021,Mystic Diner Restaurant - Tesla Destination,253 Greenmanville  Ave,Mystic,C021,Level 2,19.2,U021,Rocco,Luna,863-633-0021,CS021,1/1/2024 20:00,1/1/2024 22:54,50.28,28.87,24 hours daily; for customer use only,3.17,2887.29,0.81,1
+S022,Connecticut Airport Authority - Bradley Airport,Cell Phone Lot,Windsor Locks,C022,Level 1,1.9,U022,Kyrie,Salinas,863-633-0022,CS022,1/1/2024 21:00,1/1/2024 22:55,59.14,34.85,24 hours daily,2.93,3485.32,0.91,1
+S023,University of Connecticut - Motor Pool,9 Discovery Dr,Storrs,C023,DC Fast Charger,350,U023,Ellis,Odom,863-633-0023,CS023,1/1/2024 22:00,1/2/2024 1:02,49.20,14.86,8am-3pm M-F,2.56,1485.61,0.57,2
+S024,Hammonasset Beach State Park - South,1288 Boston Post Rd,Madison,C024,DC Fast Charger,350,U024,Journey,Li,863-633-0024,CS024,1/1/2024 23:00,1/1/2024 23:31,68.45,38.41,24 hours daily,2.07,3840.61,0.97,1
+S025,Schaller Mitsubishi,25 Veterans Dr,New Britain,C025,Level 1,1.9,U025,Stella,Rosario,863-633-0025,CS025,1/2/2024 0:00,1/2/2024 1:55,27.60,24.04,Dealership business hours,0.96,2403.75,0.76,2
+S026,Mansfield Public Library,54 Warrenville Rd,Mansfield,C026,DC Fast Charger,350,U026,Kevin,Lim,863-633-0026,CS026,1/2/2024 1:00,1/2/2024 3:42,40.18,38.76,24 hours daily,3.60,3876.32,0.89,1
+S027,WESTLODGE,811 Burr Mountain Rd,Torrington,C027,Level 1,1.9,U027,Lucy,Moss,863-633-0027,CS027,1/2/2024 2:00,1/2/2024 2:33,43.49,27.45,24 hours daily,3.65,2744.83,0.84,1
+S028,TOWNHALL,100 Bentley Dr,Harwinton,C028,Level 1,1.9,U028,Aila,Davenport,863-633-0028,CS028,1/2/2024 3:00,1/2/2024 6:13,10.34,9.86,24 hours daily,1.55,985.58,0.42,3
+S029,University of Connecticut - Avery Point,1084 Shennecossett Rd,Groton,C029,Level 2,19.2,U029,Kace,Carter,863-633-0029,CS029,1/2/2024 4:00,1/2/2024 4:35,31.68,25.62,24 hours daily,2.44,2561.71,0.76,2
+S030,Middletown School District - Lawrence Elementary School,Kaplan Dr,Middletown,C030,DC Fast Charger,350,U030,Conner,Brock,863-633-0030,CS030,1/2/2024 5:00,1/2/2024 7:58,56.59,33.13,24 hours daily,3.15,3313.21,0.90,1
+S031,Fairfield Mitsubishi,421 Tunxis Hill Rd,Fairfield,C031,DC Fast Charger,350,U031,Lucilie,Bates,863-633-0031,CS031,1/2/2024 6:00,1/2/2024 9:54,19.47,36.95,Dealership business hours,1.44,3694.53,0.95,1
+S032,Gates Nissan,143 Boston Post Rd,North Windham,C032,Level 1,1.9,U032,Kasen,Frederick,863-633-0032,CS032,1/2/2024 7:00,1/2/2024 9:27,38.29,17.01,Dealership business hours,2.01,1701.18,0.54,2
+S033,Water's Edge Resort and Spa - Tesla Destination,1525 Boston Post Rd,Westbrook,C033,Level 2,19.2,U033,Lily,Calhoun,863-633-0033,CS033,1/2/2024 8:00,1/2/2024 9:58,16.14,26.44,24 hours daily,1.31,2643.82,0.77,2
+S034,North Haven PaviIion,100 Universal Dr,North Haven,C034,Level 2,19.2,U034,Dariel,Ray,863-633-0034,CS034,1/2/2024 9:00,1/2/2024 12:03,60.07,18.03,24 hours daily,1.00,1803.44,0.64,2
+S035,UNION STATION,Union Ave and Union Station,New Haven,C035,DC Fast Charger,350,U035,Asher,Cobb,863-633-0035,CS035,1/2/2024 10:00,1/2/2024 13:32,57.72,35.50,24 hours daily,1.87,3550.30,0.91,1
+S036,Torrington Town Hall,140 Main St,Torrington,C036,Level 1,1.9,U036,Donovan,Hurst,863-633-0036,CS036,1/2/2024 11:00,1/2/2024 14:16,37.37,29.87,24 hours daily,2.89,2986.62,0.88,1
+S037,Crowley Nissan,1451 Farmington Ave,Bristol,C037,DC Fast Charger,350,U037,Zayd,Lugo,863-633-0037,CS037,1/2/2024 12:00,1/2/2024 15:10,39.94,15.86,Dealership business hours,3.47,1585.53,0.53,2
+S038,Parthenon Diner Restaurant - Tesla Destination,374 E Main St,Branford,C038,DC Fast Charger,350,U038,Adriel,Beil,863-633-0038,CS038,1/2/2024 13:00,1/2/2024 13:43,73.39,15.88,24 hours daily; for customer use only,1.04,1588.27,0.52,2
+S039,Town of Mansfield - Community Center,10 S Eagleville Rd,Mansfield,C039,Level 2,19.2,U039,Leland,Rios,863-633-0039,CS039,1/2/2024 14:00,1/2/2024 15:25,61.52,26.51,24 hours daily,1.28,2650.57,0.74,2
+S040,Manchester City Nissan,30 Tolland Turnpike,Manchester,C040,Level 2,19.2,U040,Ximena,Huang,863-633-0040,CS040,1/2/2024 15:00,1/2/2024 16:50,68.18,8.50,Dealership business hours,3.24,849.86,0.43,3
+S041,City of Meriden - City Hall,142 E Main St,Meriden,C041,Level 2,19.2,U041,Elliot,Cline,863-633-0041,CS041,1/2/2024 16:00,1/2/2024 18:58,67.52,29.22,24 hours daily,1.96,2922.24,0.87,1
+S042,City of New Haven - Sherman Tyler Lot,60 N Frontage Rd,New Haven,C042,Level 2,19.2,U042,Esme,Wells,863-633-0042,CS042,1/2/2024 17:00,1/2/2024 18:15,39.40,26.62,24 hours daily; permit lot,2.40,2661.97,0.84,1
+S043,City of Meriden - Meriden Public Library,105 Miller St,Meriden,C043,Level 1,1.9,U043,Ira,Herman,863-633-0043,CS043,1/2/2024 18:00,1/2/2024 20:53,12.05,32.04,24 hours daily,1.37,3204.21,0.93,1
+S044,Blogoslawski Parking Garage,10 Franklin Square,New Britain,C044,DC Fast Charger,350,U044,Chase,Reid,863-633-0044,CS044,1/2/2024 19:00,1/2/2024 19:45,77.05,6.36,24 hours daily,3.03,636.46,0.34,3
+S045,Comfort Inn Guilford - Tesla Destination,300 Boston Post Rd,Guilford,C045,Level 2,19.2,U045,Zander,Smith,863-633-0045,CS045,1/2/2024 20:00,1/2/2024 22:29,71.48,30.04,24 hours daily; for customer use only; see front desk for access,3.30,3003.80,0.91,1
+S046,Brass Mill Center - Entrance 5,495 Union St,Waterbury,C046,DC Fast Charger,350,U046,Jessie,Pacheco,863-633-0046,CS046,1/2/2024 21:00,1/2/2024 22:53,46.81,10.61,6am-12pm daily,3.88,1060.89,0.41,3
+S047,Town of Simsbury - Town Hall,933 Hopmeadow St,Simsbury,C047,Level 1,1.9,U047,Allie,Costa,863-633-0047,CS047,1/2/2024 22:00,1/3/2024 1:06,67.48,19.03,24 hours daily,2.11,1903.07,0.50,2
+S048,Connecticut Legislative Parking Garage,240 Capitol Ave,Hartford,C048,Level 2,19.2,U048,Isral,Yang,863-633-0048,CS048,1/2/2024 23:00,1/2/2024 23:37,30.71,18.13,7am-7pm M-F,1.63,1813.18,0.48,3
+S049,Middletown School District - Moody School,300 Country Club Rd,Middletown,C049,Level 1,1.9,U049,Zyair,Glass,863-633-0049,CS049,1/3/2024 0:00,1/3/2024 1:57,74.15,13.11,24 hours daily,1.74,1311.29,0.45,3
+S050,Barberino Nissan,505 N Colony St,Wallingford,C050,Level 2,19.2,U050,Jay,Hawkins,863-633-0050,CS050,1/3/2024 1:00,1/3/2024 3:40,8.71,9.64,Dealership business hours,2.21,964.41,0.38,3
+S051,CityPlace Garage,185 Asylum St,Hartford,C051,DC Fast Charger,350,U051,Astrid,Stanton,863-633-0051,CS051,1/3/2024 2:00,1/3/2024 2:48,9.07,24.50,Garage business hours,0.51,2450.19,0.82,1
+S052,CURRAN VOLKSWAG,2774-2788 CT-113,Stratford,C052,Level 1,1.9,U052,Gatlin,Lugo,863-633-0052,CS052,1/3/2024 3:00,1/3/2024 5:06,58.73,28.10,24 hours daily,1.89,2810.23,0.87,1
+S053,"Inn at Stonington, a Select Registry Property - Tesla Destination",60 Water St,Stonington,C053,Level 2,19.2,U053,Summer,Berg,863-633-0053,CS053,1/3/2024 4:00,1/3/2024 5:35,65.99,18.85,24 hours daily; for customer use only,3.31,1884.96,0.51,2
+S054,"Westport Town Hall 110 Myrtle Ave Westport, CT 06880",110 Myrtle Avenue,Westport,C054,DC Fast Charger,350,U054,Cash,Lamb,863-633-0054,CS054,1/3/2024 5:00,1/3/2024 6:48,75.00,34.09,24 hours daily,1.91,3408.66,0.92,1
+S055,STARWOOD,1 Star Point,Stamford,C055,DC Fast Charger,350,U055,Jayson,McClain,863-633-0055,CS055,1/3/2024 6:00,1/3/2024 7:55,17.77,9.80,24 hours daily,3.31,979.85,0.39,3
+S056,Popeyes Kitchen - Fairfield Pizza,200 E Main St,Stratford,C056,DC Fast Charger,350,U056,Lilliana,Ross,863-633-0056,CS056,1/3/2024 7:00,1/3/2024 9:33,50.27,38.94,24 hours daily,1.68,3894.19,0.97,1
+S057,Dunkin' Donuts - Tesla Supercharger,160 Kukas Lane,Waterbury,C057,Level 2,19.2,U057,Tate,Giles,863-633-0057,CS057,1/3/2024 8:00,1/3/2024 11:51,76.45,30.19,24 hours daily; for Tesla use only,3.87,3019.22,0.94,1
+S058,Crest Ford,218 Flanders Rd,Niantic,C058,DC Fast Charger,350,U058,Donald,Barrett,863-633-0058,CS058,1/3/2024 9:00,1/3/2024 12:59,77.86,28.30,24 hours daily,0.92,2830.32,0.88,1
+S059,Central Connecticut State University - Sheridan Dorm Lot,65 Wells St,New Britain,C059,DC Fast Charger,350,U059,Rafael,Schwartz,863-633-0059,CS059,1/3/2024 10:00,1/3/2024 12:59,21.89,8.64,24 hours daily,1.29,863.78,0.39,3
+S060,LIBRARY KIOSK,24 Main St,New Milford,C060,Level 2,19.2,U060,Rylee,Kramer,863-633-0060,CS060,1/3/2024 11:00,1/3/2024 12:15,71.28,6.74,24 hours daily,2.41,674.47,0.36,3
+S061,Hotel HiHo - Tesla Destination,4180 Black Rock Tpke,Fairfield,C061,Level 1,1.9,U061,Cayson,Burch,863-633-0061,CS061,1/3/2024 12:00,1/3/2024 14:22,21.83,36.07,24 hours daily; for customer use only,2.08,3606.80,0.96,1
+S062,Summer Street Garage,100 Summer St,Stamford,C062,DC Fast Charger,350,U062,Angelina,Cox,863-633-0062,CS062,1/3/2024 13:00,1/3/2024 15:00,62.72,30.04,Restricted to garage hours; pay lot,2.12,3004.44,0.91,1
+S063,MUNICIP STATION,3 Primrose St,Newtown,C063,Level 2,19.2,U063,Stevie,Fletcher,863-633-0063,CS063,1/3/2024 14:00,1/3/2024 16:50,46.20,30.86,24 hours daily,0.65,3086.42,0.92,1
+S064,PURDUE PHARMA,201 Tresser Blvd,Stamford,C064,Level 1,1.9,U064,Ismael,Roman,863-633-0064,CS064,1/3/2024 15:00,1/3/2024 16:02,29.35,24.65,24 hours daily,2.48,2464.98,0.75,2
+S065,Hartford High School,55 Forest St,Hartford,C065,DC Fast Charger,350,U065,Emily,Lindsey,863-633-0065,CS065,1/3/2024 16:00,1/3/2024 18:42,76.93,34.23,24 hours daily,2.12,3422.83,0.93,1
+S066,Bloomfield Town Hall,800 Bloomfield Avenue,Bloomfield,C066,Level 2,19.2,U066,Fisher,Blackwell,863-633-0066,CS066,1/3/2024 17:00,1/3/2024 18:46,59.25,12.22,24 hours daily,1.28,1222.04,0.45,3
+S067,GUNNERY,16 Kirby Rd,Washington,C067,Level 2,19.2,U067,Cameron,Crosby,863-633-0067,CS067,1/3/2024 18:00,1/3/2024 21:04,37.06,37.88,24 hours daily,1.61,3787.53,0.98,1
+S068,University of Connecticut - Storrs Center Garage,33 Royce Cir,Storrs,C068,DC Fast Charger,350,U068,Meredith,Macdonald,863-633-0068,CS068,1/3/2024 19:00,1/3/2024 21:30,67.70,13.78,24 hours daily,0.86,1377.56,0.47,3
+S069,JAGLRNH,521 Washington Ave,North Haven,C069,Level 1,1.9,U069,Saoirse,Branch,863-633-0069,CS069,1/3/2024 20:00,1/3/2024 22:37,16.41,21.67,24 hours daily,1.70,2166.78,0.78,2
+S070,Town of Stafford - Town Hall,1 Main St,Stafford Springs,C070,Level 1,1.9,U070,Eva,Arias,863-633-0070,CS070,1/3/2024 21:00,1/3/2024 22:47,67.01,14.42,24 hours daily,3.61,1442.40,0.48,3
+S071,Charter Oak International Academy,425 Oakwood Ave,West Hartford,C071,Level 1,1.9,U071,Remi,Kent,863-633-0071,CS071,1/3/2024 22:00,1/4/2024 1:01,70.62,15.47,24 hours daily,3.28,1547.08,0.51,2
+S072,Town of Newington - Market Square,90 Market Square,Newington,C072,DC Fast Charger,350,U072,Zayne,West,863-633-0072,CS072,1/3/2024 23:00,1/4/2024 0:36,61.13,37.15,24 hours daily,0.95,3714.90,0.96,1
+S073,Riverfield School,1625 Mill Plain Rd,Fairfield,C073,DC Fast Charger,350,U073,Darius,Davenport,863-633-0073,CS073,1/4/2024 0:00,1/4/2024 2:24,22.88,10.71,School hours,1.57,1070.96,0.41,3
+S074,Capital Regional Development Authority (CRDA),105 Columbus Blvd,Hartford,C074,Level 1,1.9,U074,Henry,Escobar,863-633-0074,CS074,1/4/2024 1:00,1/4/2024 2:32,12.89,15.20,6am-12am daily,0.58,1519.73,0.47,3
+S075,The SoNo Collection,100 N Water St,Norwalk,C075,Level 1,1.9,U075,Leanna,Moss,863-633-0075,CS075,1/4/2024 2:00,1/4/2024 4:22,69.17,20.77,6am-12am,2.29,2076.65,0.75,2
+S076,City of New Haven - Whalley Blake Parking Lot,919 Whalley Ave,New Haven,C076,Level 1,1.9,U076,Natasha,Ford,863-633-0076,CS076,1/4/2024 3:00,1/4/2024 5:03,46.78,24.79,24 hours daily; pay lot,3.52,2479.07,0.77,2
+S077,Riverview Cinemas 8 and Playhouse - Tesla Destination,690 Main St S,Southbury,C077,Level 1,1.9,U077,Milan,Dennis,863-633-0077,CS077,1/4/2024 4:00,1/4/2024 5:17,49.28,39.93,24 hours daily; for customer use only,3.87,3993.17,0.99,1
+S078,The Ridgefield Playhouse,80 E Ridge Rd,Ridgefield,C078,Level 2,19.2,U078,Porter,Cole,863-633-0078,CS078,1/4/2024 5:00,1/4/2024 8:40,31.22,17.60,24 hours daily,3.34,1760.49,0.49,3
+S079,Meriden Station Garage,24 Colony St,Meriden,C079,DC Fast Charger,350,U079,Kylen,Hood,863-633-0079,CS079,1/4/2024 6:00,1/4/2024 9:55,30.65,39.32,24 hours daily,1.03,3932.21,0.98,1
+S080,HONDA WESTPORT,1372 Post Rd E,Westport,C080,Level 1,1.9,U080,Maren,Flowers,863-633-0080,CS080,1/4/2024 7:00,1/4/2024 7:41,59.99,15.68,24 hours daily,3.73,1568.30,0.45,3
+S081,FOXWOODS,350 Trolley Line Blvd,Mashantucket,C081,Level 2,19.2,U081,Sophie,Vo,863-633-0081,CS081,1/4/2024 8:00,1/4/2024 11:05,51.67,18.01,24 hours daily,0.69,1801.18,0.48,3
+S082,TOWN HALL LOT,740 Main St,East Hartford,C082,Level 1,1.9,U082,Dilan,Frye,863-633-0082,CS082,1/4/2024 9:00,1/4/2024 12:21,35.91,19.28,24 hours daily,2.73,1928.35,0.49,3
+S083,FOXWOODS,350 Trolley Line Blvd,Ledyard,C083,Level 1,1.9,U083,Kingsley,Carter,863-633-0083,CS083,1/4/2024 10:00,1/4/2024 13:20,41.61,29.53,24 hours daily,0.81,2953.29,0.85,1
+S084,Plainville High School,47 Robert Holcomb Way,Plainville,C084,Level 2,19.2,U084,Adonis,Osborne,863-633-0084,CS084,1/4/2024 11:00,1/4/2024 13:54,32.83,39.67,24 hours daily,3.41,3967.48,0.97,1
+S085,Connecticut Welcome Center - Tesla Supercharger,1 West Ave.,Darien,C085,Level 1,1.9,U085,Tatum,Small,863-633-0085,CS085,1/4/2024 12:00,1/4/2024 13:09,57.92,19.82,24 hours daily; for Tesla use only,1.26,1981.73,0.49,3
+S086,Whole Foods Market,350 Grasmere Ave,Fairfield,C086,Level 1,1.9,U086,Virginia,Knight,863-633-0086,CS086,1/4/2024 13:00,1/4/2024 16:26,21.66,18.03,8am-10pm daily; for customer use only; see inside for access,1.89,1802.55,0.48,3
+S087,Tamarack Country Club - Tesla Destination,55 Locust Rd,Greenwich,C087,Level 2,19.2,U087,Kole,Howard,863-633-0087,CS087,1/4/2024 14:00,1/4/2024 15:54,41.01,18.07,24 hours daily; for member use only; see valet for access,3.37,1806.65,0.47,3
+S088,Madison Beach Hotel - Tesla Destination,94 W Wharf Rd,Madison,C088,Level 2,19.2,U088,Parker,McClain,863-633-0088,CS088,1/4/2024 15:00,1/4/2024 16:26,79.82,35.97,24 hours daily; overnight valet fee,2.61,3597.13,0.96,1
+S089,Newington Electric,72 Pane Rd,Newington,C089,Level 2,19.2,U089,Bryce,Hammond,863-633-0089,CS089,1/4/2024 16:00,1/4/2024 17:56,33.07,15.55,24 hours daily,1.47,1555.08,0.57,2
+S090,Premier Kia,205 N Main St,Branford,C090,Level 2,19.2,U090,Chaim,Casey,863-633-0090,CS090,1/4/2024 17:00,1/4/2024 18:53,27.84,12.28,24 hours daily; priority for customer use,2.54,1227.83,0.51,2
+S091,The Shoppes at Fox Run 1,25 Welles St # 55,Glastonbury,C091,Level 2,19.2,U091,Raya,Giles,863-633-0091,CS091,1/4/2024 18:00,1/4/2024 21:41,28.44,13.78,24 hours daily,1.08,1377.98,0.53,2
+S092,NBCSG,98 Maher Rd,Stamford,C092,Level 1,1.9,U092,Stormi,Andrews,863-633-0092,CS092,1/4/2024 19:00,1/4/2024 22:52,68.57,15.89,24 hours daily,2.93,1588.94,0.56,2
+S093,EDENS BISHOPS,345 N Main St,West Hartford,C093,DC Fast Charger,350,U093,Eden,Barrett,863-633-0093,CS093,1/4/2024 20:00,1/4/2024 23:34,65.43,10.40,24 hours daily,0.93,1039.57,0.50,2
+S094,Propark - Water Street Garage,161 Water St,New London,C094,Level 2,19.2,U094,Eliseo,Charles,863-633-0094,CS094,1/4/2024 21:00,1/4/2024 23:30,71.62,21.26,Restricted to garage hours; pay lot,3.52,2126.36,0.79,2
+S095,Connecticut Post Mall - Tesla Supercharger,1201 Boston Post Road,Milford,C095,DC Fast Charger,350,U095,Marleigh,Ahmed,863-633-0095,CS095,1/4/2024 22:00,1/5/2024 1:51,7.93,33.82,24 hours daily; for Tesla use only,2.34,3381.84,0.95,1
+S096,Manchester Honda,24 Adams St,Manchester,C096,Level 1,1.9,U096,Jaylen,Velasquez,863-633-0096,CS096,1/4/2024 23:00,1/5/2024 0:43,8.47,38.06,Dealership business hours,1.38,3805.80,0.97,1
+S097,New London Mall - Tesla Supercharger,369 N Frontage Rd,New London,C097,Level 2,19.2,U097,Kimber,Maxwell,863-633-0097,CS097,1/5/2024 0:00,1/5/2024 2:16,55.73,38.09,24 hours daily; for Tesla use only,3.83,3809.37,0.97,1
+S098,Plainville Municipal Center,1 Central Square,Plainville,C098,DC Fast Charger,350,U098,Alondra,Patel,863-633-0098,CS098,1/5/2024 1:00,1/5/2024 3:33,31.05,6.25,24 hours daily,0.69,625.45,0.34,3
+S099,The Study at Yale - Tesla Destination,1157 Chapel St,New Haven,C099,DC Fast Charger,350,U099,Jenna,Hodge,863-633-0099,CS099,1/5/2024 2:00,1/5/2024 5:47,15.92,9.53,24 hours daily; see valet for access,3.35,953.12,0.38,3
+S100,Connecticut Science Center,250 Columbus Blvd,Hartford,C100,DC Fast Charger,350,U100,Lukas,Callahan,863-633-0100,CS100,1/5/2024 3:00,1/5/2024 5:09,50.90,28.34,6am-6pm daily,3.62,2833.89,0.87,1
+,,,,,,,,,,,,,,,,,,,,

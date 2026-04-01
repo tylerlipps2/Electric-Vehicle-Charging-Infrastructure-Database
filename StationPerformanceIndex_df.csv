@@ -1,0 +1,101 @@
+Station_ID,Availability,AvgSessionDurration,RevenuePerDay,UtilizationRate,UtilizationRank
+S001,24 hours daily,0.59,1308.77,0.68,2.0
+S002,24 hours daily; for Tesla use only,3.13,2112.84,0.82,1.0
+S003,24 hours daily,2.45,3566.73,0.94,1.0
+S004,24 hours daily,1.27,1303.62,0.67,2.0
+S005,24 hours daily,2.02,1016.15,0.54,2.0
+S006,24 hours daily,1.17,3690.03,0.96,1.0
+S007,24 hours daily; for Tesla use only,3.54,2221.42,0.84,1.0
+S008,24 hours daily,2.66,979.68,0.45,3.0
+S009,8am-10pm daily; for customer use only,1.72,3246.5,0.9,1.0
+S010,24 hours daily; guest use only; see front desk for access,2.03,2131.23,0.74,2.0
+S011,6am-12am daily,2.65,3822.12,0.98,1.0
+S012,24 hours daily,2.06,1405.09,0.72,2.0
+S013,Dealership business hours,3.07,1097.21,0.55,2.0
+S014,24 hours daily,3.59,3744.19,0.95,1.0
+S015,24 hours daily; for customer use only; see front desk for access,3.42,1855.28,0.62,2.0
+S016,24 hours daily,2.7,3309.35,0.93,1.0
+S017,24 hours daily; pay lot,3.46,1749.48,0.58,2.0
+S018,24 hours daily,0.85,643.06,0.34,3.0
+S019,24 hours daily; for Tesla use only,0.81,2507.88,0.78,2.0
+S020,24 hours daily,2.58,709.08,0.36,3.0
+S021,24 hours daily; for customer use only,3.17,2887.29,0.81,1.0
+S022,24 hours daily,2.93,3485.32,0.91,1.0
+S023,8am-3pm M-F,2.56,1485.61,0.57,2.0
+S024,24 hours daily,2.07,3840.61,0.97,1.0
+S025,Dealership business hours,0.96,2403.75,0.76,2.0
+S026,24 hours daily,3.6,3876.32,0.89,1.0
+S027,24 hours daily,3.65,2744.83,0.84,1.0
+S028,24 hours daily,1.55,985.58,0.42,3.0
+S029,24 hours daily,2.44,2561.71,0.76,2.0
+S030,24 hours daily,3.15,3313.21,0.9,1.0
+S031,Dealership business hours,1.44,3694.53,0.95,1.0
+S032,Dealership business hours,2.01,1701.18,0.54,2.0
+S033,24 hours daily,1.31,2643.82,0.77,2.0
+S034,24 hours daily,1.0,1803.44,0.64,2.0
+S035,24 hours daily,1.87,3550.3,0.91,1.0
+S036,24 hours daily,2.89,2986.62,0.88,1.0
+S037,Dealership business hours,3.47,1585.53,0.53,2.0
+S038,24 hours daily; for customer use only,1.04,1588.27,0.52,2.0
+S039,24 hours daily,1.28,2650.57,0.74,2.0
+S040,Dealership business hours,3.24,849.86,0.43,3.0
+S041,24 hours daily,1.96,2922.24,0.87,1.0
+S042,24 hours daily; permit lot,2.4,2661.97,0.84,1.0
+S043,24 hours daily,1.37,3204.21,0.93,1.0
+S044,24 hours daily,3.03,636.46,0.34,3.0
+S045,24 hours daily; for customer use only; see front desk for access,3.3,3003.8,0.91,1.0
+S046,6am-12pm daily,3.88,1060.89,0.41,3.0
+S047,24 hours daily,2.11,1903.07,0.5,2.0
+S048,7am-7pm M-F,1.63,1813.18,0.48,3.0
+S049,24 hours daily,1.74,1311.29,0.45,3.0
+S050,Dealership business hours,2.21,964.41,0.38,3.0
+S051,Garage business hours,0.51,2450.19,0.82,1.0
+S052,24 hours daily,1.89,2810.23,0.87,1.0
+S053,24 hours daily; for customer use only,3.31,1884.96,0.51,2.0
+S054,24 hours daily,1.91,3408.66,0.92,1.0
+S055,24 hours daily,3.31,979.85,0.39,3.0
+S056,24 hours daily,1.68,3894.19,0.97,1.0
+S057,24 hours daily; for Tesla use only,3.87,3019.22,0.94,1.0
+S058,24 hours daily,0.92,2830.32,0.88,1.0
+S059,24 hours daily,1.29,863.78,0.39,3.0
+S060,24 hours daily,2.41,674.47,0.36,3.0
+S061,24 hours daily; for customer use only,2.08,3606.8,0.96,1.0
+S062,Restricted to garage hours; pay lot,2.12,3004.44,0.91,1.0
+S063,24 hours daily,0.65,3086.42,0.92,1.0
+S064,24 hours daily,2.48,2464.98,0.75,2.0
+S065,24 hours daily,2.12,3422.83,0.93,1.0
+S066,24 hours daily,1.28,1222.04,0.45,3.0
+S067,24 hours daily,1.61,3787.53,0.98,1.0
+S068,24 hours daily,0.86,1377.56,0.47,3.0
+S069,24 hours daily,1.7,2166.78,0.78,2.0
+S070,24 hours daily,3.61,1442.4,0.48,3.0
+S071,24 hours daily,3.28,1547.08,0.51,2.0
+S072,24 hours daily,0.95,3714.9,0.96,1.0
+S073,School hours,1.57,1070.96,0.41,3.0
+S074,6am-12am daily,0.58,1519.73,0.47,3.0
+S075,6am-12am,2.29,2076.65,0.75,2.0
+S076,24 hours daily; pay lot,3.52,2479.07,0.77,2.0
+S077,24 hours daily; for customer use only,3.87,3993.17,0.99,1.0
+S078,24 hours daily,3.34,1760.49,0.49,3.0
+S079,24 hours daily,1.03,3932.21,0.98,1.0
+S080,24 hours daily,3.73,1568.3,0.45,3.0
+S081,24 hours daily,0.69,1801.18,0.48,3.0
+S082,24 hours daily,2.73,1928.35,0.49,3.0
+S083,24 hours daily,0.81,2953.29,0.85,1.0
+S084,24 hours daily,3.41,3967.48,0.97,1.0
+S085,24 hours daily; for Tesla use only,1.26,1981.73,0.49,3.0
+S086,8am-10pm daily; for customer use only; see inside for access,1.89,1802.55,0.48,3.0
+S087,24 hours daily; for member use only; see valet for access,3.37,1806.65,0.47,3.0
+S088,24 hours daily; overnight valet fee,2.61,3597.13,0.96,1.0
+S089,24 hours daily,1.47,1555.08,0.57,2.0
+S090,24 hours daily; priority for customer use,2.54,1227.83,0.51,2.0
+S091,24 hours daily,1.08,1377.98,0.53,2.0
+S092,24 hours daily,2.93,1588.94,0.56,2.0
+S093,24 hours daily,0.93,1039.57,0.5,2.0
+S094,Restricted to garage hours; pay lot,3.52,2126.36,0.79,2.0
+S095,24 hours daily; for Tesla use only,2.34,3381.84,0.95,1.0
+S096,Dealership business hours,1.38,3805.8,0.97,1.0
+S097,24 hours daily; for Tesla use only,3.83,3809.37,0.97,1.0
+S098,24 hours daily,0.69,625.45,0.34,3.0
+S099,24 hours daily; see valet for access,3.35,953.12,0.38,3.0
+S100,6am-6pm daily,3.62,2833.89,0.87,1.0
