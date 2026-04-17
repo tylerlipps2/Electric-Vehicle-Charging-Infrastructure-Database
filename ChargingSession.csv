@@ -1,4 +1,4 @@
-,UserID,Station_ID,ChargerNumber,ChargeStartTime,ChargeEndTime,EnergyConsumedKWh,TotalCostChargeSessionID
+ChargeSessionID,UserID,Station_ID,ChargerNumber,ChargeStartTime,ChargeEndTime,EnergyConsumedKWh,TotalCostChargeSessionID
 CS001,U001,S001,C001,1/1/2024 0:00,1/1/2024 0:39,60.71,13.09
 CS002,U002,S002,C002,1/1/2024 1:00,1/1/2024 3:01,12.34,21.13
 CS003,U003,S003,C003,1/1/2024 2:00,1/1/2024 4:48,19.13,35.67
