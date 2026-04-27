@@ -8,4 +8,4 @@ User Groups: Companys and constructions groups wanting to determine where it wou
 Instructions:
 1. Us create_db.sql to make the database in freesql.
 2. Downlaod the intial csv and run preprocess to seqerate them or download the idividual csv files and run dataload.py to uppload the data to the database.
-3. Finally use App2.py or App.py and run python -m streamlit run app.py to open the application.
+3. Finally use App2.py to run python -m streamlit run app.py to open the application.
